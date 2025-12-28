@@ -54,6 +54,7 @@ The dataset includes:
 * Ratings & visibility metrics
 
 ## 📷 Dashboard Preview
+<img width="1272" height="695" alt="image" src="https://github.com/user-attachments/assets/cf1c168d-b49e-4881-9fea-48f6c7e38228" />
 
 
 
